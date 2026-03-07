@@ -1,0 +1,26 @@
+{
+  "name": "Content Pipeline — Cuernatravel",
+  "short_name": "Pipeline",
+  "description": "Zettelkasten Content Management System para Cuernatravel",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0EA5E9",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "lang": "es"
+}
